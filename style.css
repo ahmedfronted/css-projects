@@ -1,0 +1,13 @@
+body {
+    background-color: cadetblue;
+    font-family: monospace;}
+    #user {
+        color: red;
+    }
+    .content {
+        font-style: italic;
+        font-size: x-large;
+    }       
+    .text {
+        font-size: 19pt;
+    }
